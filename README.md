@@ -1,4 +1,4 @@
-# Prediccion de acciones en bolsa
+# Prediction of shares in the stock market
 ***
 Using tensorflow, a neural network is trained that can make predictions about stocks in the stock market  
 The model uses LSTM layers because they are very useful to analyze data over time  
@@ -13,7 +13,7 @@ As can be seen in the image, the network has considerable results within 1 day o
 
 ### How to install and run the script
 ***
-<code>$ git clone https://github.com/zeusdh/Prediccion-de-acciones-en-bolsa.git</code>  
+<code>$ git clone https://github.com/zeusdh/Prediction-of-shares-in-the-stock-market.git</code>  
 <code>$ cd Prediccion-de-acciones-en-bolsa/</code>  
 If we want to train the model we just have to put the following  
 <code>$ python3 train.py</code>  
