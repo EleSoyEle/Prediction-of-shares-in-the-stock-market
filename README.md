@@ -10,9 +10,9 @@ As can be seen in the image, the network has considerable results within 1 day o
 
 ### How to install and run the script
 ***
-$ git clone https://github.com/zeusdh/Prediccion-de-acciones-en-bolsa.git  
-$ cd Prediccion-de-acciones-en-bolsa/  
+<code>$ git clone https://github.com/zeusdh/Prediccion-de-acciones-en-bolsa.git  
+$ cd Prediccion-de-acciones-en-bolsa/</code>  
 If we want to train the model we just have to put the following  
     <code>$ python3 train.py</code>  
 If we only want to test the model we only put  
-    $ python3 main.py  
+    <code>$ python3 main.py</code>  
