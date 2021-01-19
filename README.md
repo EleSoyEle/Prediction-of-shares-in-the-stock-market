@@ -15,7 +15,7 @@ As can be seen in the image, the network has considerable results within 1 day o
 </code>  
 <code>  
     $ cd Prediccion-de-acciones-en-bolsa/
-</code>
+</code>  
 If we want to train the model we just have to put the following  
 <code>  
     $ python3 train.py
