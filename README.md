@@ -1,7 +1,10 @@
 # Prediccion de acciones en bolsa
 ***
-Using tensorflow, a neural network is trained that can make predictions about stocks in the stock market
-
+Using tensorflow, a neural network is trained that can make predictions about stocks in the stock market  
+The model uses LSTM layers because they are very useful to analyze data over time  
+To be able to build the network use tensorflow and keras  
+The data used for the training was the actions of tesla from 2018 to 2021 giving a total of 764 data  
+Of the 764 data, 700 will be used for training, the rest will be used for data validation.
 
 ### We plot the results of the network
 ***
